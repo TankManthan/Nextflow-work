@@ -1,0 +1,194 @@
+Today's Work :-
+Date:- 05 March , 2026
+
+-Python Dictionary :
+	-Access Items :
+		- We can access values of dictionary using it's key values.
+		- get() : methods takes key as argument and return the value.
+		- keys() : returns the list of all the keys.
+		- values() : returns the list of all the values.
+		- items() : returns the list with the each pair inclosed in the tuple.
+	-Change Items :
+		- We can change the value of a specific item by referring to its key name.
+		- update() : update the dictionary with the items from the given argument.
+	-Add Items :
+		- to add item we can add new key and items using it's reference.
+		- update() : it also used to add new item if the item does not exist.
+	-Remove Item :
+		- pop() : removes the item with the specified key name.
+		- popitem() : removes the last inserted item.
+		- del , clear()
+	-Loop Dictionary :
+		- for loop is best way.
+		- values() , keys() , items()
+	-Copy Dictionary :
+		- We cannot copy a dictionary simply by typing dict2 = dict1, because: dict2 will only be a reference to dict1, and changes made in dict1 will 				automatically also be made in dict2.
+		- copy() : makes copy of dictionary.
+		- dict() : makes copy of dictionary.
+	-Nested Dictionary :
+		- A dictionary can contain dictionaries, this is called nested dictionaries.
+	-Dictionary Methods
+-If...Else :
+	-Python If :
+		- Zero (0), empty strings (""), None, and empty collections are treated as False. Everything else is treated as True.
+		-This includes positive numbers (5), negative numbers (-3), and any non-empty string (even "False" is treated as True because it's a non-empty string).
+	-Python Elif
+	-Python Else
+	-Logical Operator :
+		- and,or,not 
+	-Nested If
+	-Pass
+-Match Case :
+	- The match statement is used to perform different actions based on different conditions.
+	- Use the underscore character _ as the last case value if you want a code block to execute when there are not other matches.
+	- The value _ will always match, so it is important to place it as the last case to make it behave as a default case.
+	- Use the pipe character | as an or operator in the case evaluation to check for more than one value match in one case.
+-While Loop :
+	- we can execute a set of statements as long as a condition is true.
+	- break,continue,else
+-For Loop : 
+	-  we can execute a set of statements, once for each item in a list, tuple, set etc.
+	- Even strings are iterable objects, they contain a sequence of characters.
+	- range(),break,continue,else,pass
+	- Nested loop : A nested loop is a loop inside a loop.
+-Python Functions :
+	- def keyword , () for calling function , reuse signle code multiple times.
+	- When a function reaches a return statement, it stops executing and sends the result back.
+	- If a function doesn't have a return statement, it returns None by default.
+	- A function is a block of code which only runs when it is called.
+	- A function can return data as a result.
+	- A function helps avoiding code repetition.
+
+-Function Arguments : 
+	- Iformation can be passed into functions as arguments.
+	- function must be called with the correct number of arguments.
+	- default value can assign to the parameter.
+	- arguments with key:value pair.
+	- arguments can be datatype like list,dictionary,string,number,tuple,set.
+	- function can return datatype like list,dictionary,string,number.tuple,set.
+	- positional only arguments = ' / '  : func_name(para1,/)
+	- keyword only arguments = ' * ' : func_name(*,para1)
+-Python *args & *kwargs :
+	- *args and **kwargs allow functions to accept a unknown number of arguments.
+	- * before the parameter name. this way function will receive tuple.
+	- Regular parameters must come before *args.
+	- If you do not know how many keyword arguments will be passed into your function, add two asterisks ** before the parameter name.
+	- **kwargs parameter allows a function to accept any number of keyword arguments.
+-Scope :
+	- A variable is only available from inside the region it is created. This is called scope.
+	- global keyword , nonlocal keyword
+-Decorator :
+	- it is used to add extra things to function without changing function code.
+	- A decorator is a function that takes another function as input and returns a new function.
+	- metadata : __name__ , __doc__
+-Lambda :
+	- anonymous function means unnamed function 
+	- can take multiple arguments but returns one expression.
+	- map() : map applies function to every items in an iterable.
+	- filter() : filter function returns list of items for which it returns True.
+	- sorted() :custom sorting with lambda.
+-Recursion :
+	- function calls itself.
+	- Base case : a condition that stops the recursion.
+	- Recursion case : function call itself with modified value.
+-Generator :
+	- generator is function that can pause and resume their execution.
+	- yield keyword makes function a generator.
+	- next() used to iterate with generator.
+	- send() :sends value to a generator
+	- close() :stops the generato.
+-Range :
+	- range() datatype is 'range'.
+	- used with the loop
+	- range(start,end,steps)
+-Array :
+	- used to store multiple items with same datatype.
+	- list is used except array.
+-Iterator :
+	- iterator is  object that contains countable numbers of value.
+	- __iter()__
+	- __next()__
+-Module :
+	- A file containing a set of functions you want to include in your application.
+-DateTime :
+	- import datetime
+-Math :
+	- min(),max(),abs(),pow(),import math, sqrt(),ceil(),fllor(),
+-JSON :
+	- JSON is a syntax for storing and exchanging data.
+	-JSON is text, written with JavaScript object notation.
+	- import json
+	- json data -> python dictionary = json.loads()
+	- python data -> json data = json.dumps()
+-RegEx :
+	- sequence of characters that forms a search pattern.
+	- import re
+	- findall () :returns a list of all containing matches.
+	- search() : if match found anywhere in string.
+	- split(): splits string where the match found.
+	- sub() : replace one or many matches.
+-PIP :
+	- package manager.
+	- pip --version, pip install package_name, pip uninstall package_name, pip list
+-Try...Except :
+	-try, except, else, finally, raise keyword
+	-SyntaxError, NameError, TypeError, ValueError, IndexError, KeyError, AttributeError, ZeroDivisionError, ImportError, ModuleNotFoundError, IndentionError.
+-String Formatting :
+	- format(), f-string
+	- modifiers
+-None :
+	- it represents absence of value. no value or not set
+	- datatype is 'NoneType'.
+	- bool(None) will be False.
+-User Input :
+	-input() by default takes string, int(input()),float(input())
+-Virtual Environment :
+	- isolated environment in computer.
+	- allow testing with different python versions.
+	- Create : python -m venv environment_name
+	- Start : environment_name\Scripts\activate
+	- Stop : deactivate
+	- Delete : rmdir /s /d environment_name
+
+
+Python Classes :
+	-Python OOP :
+		-DRY : Do Not Repeat Yourself.
+	-Classes & Objets :
+		- class is blueprint and object refer to that bluepint.
+		- class keyword, del keyword to delete object
+	-__init__() :
+		-initialize value when the object of class is created.
+	-Self Parameter :
+		-it reference to current instance of the class.
+	-Class Properties :
+		-access properties with dot ' . '
+	-Class Method :
+		-methods are function that belongs to the class.
+		- __str__()
+	-Inheitance :
+		-child class inherit from it's parent class is called inheritance.
+		-super() to initialize parent class constructor.
+	-Polymorphism :
+		- it means "many forms" 
+	-Encapsulation :
+		-hides the internal details of class.
+		-"__" double underscore for making properties to private.
+		-"_" single underscoe for protected properties. can access directly.
+		-name mangling
+	-Inner Class :
+		-class defined inside another class.
+-File Handling :
+	-creating, reading, updating and deleting file.
+	-open(filename,filemode) :
+		-mode : r-reading file, error if file not exist.
+				w-write file, creates new if file not exist.
+				a-append file, creates new if file not exist.
+				x-create specified file, error if file exist.
+				t-text mode, default
+				b-binary mode
+		-using with keyword
+		-read(), close(), readline(), readlines(), write()
+		- "w" mode will overwright the file data.
+		-to delete file import os module and then os.remove() will use.
+		-rmdir for remove folder.
