@@ -1,0 +1,80 @@
+Today's Work :-
+Date:- 28 Feb , 2026
+
+HTML Tasks :-
+    -Task3 DONE
+        -Js Exrecise color changer
+
+    -Task4*
+        -Table with Add , Edit , Delete , Save Functionality
+
+-JS Topics Learning
+-HTML Document 
+    -addEventListener()
+    -body
+    -createAttribute
+    -createElement
+    -createEvent
+    -createTextNode
+    -documentElement
+    -getElementById
+    -getElementByClassName
+    -getElementByName 
+    -getElementByTagName
+    -querySelector
+    -querySelectorAll
+    -removeEventListener
+-HTML Elements 
+    -append
+    -appendChild
+    -attributes
+    -childElementCount
+    -childNodes
+    -children
+    -className
+    -click()
+    -firstChild
+    -firstElementChild
+    -focus()
+    -getAttribute
+    -getAttributeNode
+    -getElementByClassName
+    -getElementByTagName
+    -hasAttribute
+    -hasAttributes
+    -hasChildNodes
+    -id
+    -innerHTML
+    -innerText
+    -isContentEditable
+    -lang 
+    -lastChild
+    -lastElementChild
+    -nextSibling
+    -nodeName
+    -nodeType
+    -nodeValue
+    -outerHTML
+    -outerText
+    -ownerDocument
+    -parentNode
+    -parentElement
+    -previousSibling
+    -previousElementSibling
+    -querySelector
+    -querySelectorAll 
+    -remove 
+    -removeAttribute
+    -removeAttributeNode
+    -removeChild
+    -removeEventListener-(*)
+    -replaceChild
+    -setAttribute
+    -setAttributeNode
+    -style
+    -tabIndex
+    -tagName
+    -textContent
+    -title
+-HTML Attributes    
+-HTML NodeList

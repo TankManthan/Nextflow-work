@@ -1,0 +1,41 @@
+Today's Work :-
+Date:- 02 March , 2026
+
+-Task4*
+    -Table with Add , Edit , Delete , Save Functionality
+        -Add works
+        -Delete*
+
+-JS Topics Learning
+-HTML Elements 
+    -removeEventListener
+    -replaceChild
+    -scrollHeight
+    -scrollIntoView
+    -scollLeft
+    -scrollTop
+    -scrollWidth
+    -setAttribute
+    -setAttributeNode
+    -style
+    -tabIndex
+    -tagName
+    -textContent
+    -title
+-HTML Attributes
+    -getNamedItem
+    -isId
+    -item
+    -length    
+    -name
+    -removeNamedItem
+    -setNamedItem
+    -specified
+    -value
+-HTML NodeList
+    -entries()
+    -foreach()
+    -item()
+    -key()
+    -length
+    -values()

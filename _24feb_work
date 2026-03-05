@@ -1,0 +1,61 @@
+Today's Work :-
+Date:- 24 Feb , 2026
+
+
+JavaScript Training...
+JavaScript Topics learnin with the reference of W3Schools
+
+Following topics are covered or learned :-
+-Basic JavaScript
+     -JS Functions
+        -Function Invocation
+        -Function Parameters
+        -Function Returns
+        -Function Arguments
+        -Function Expression
+        -Function Arrow
+        -Function Quiz
+      -JS Objects
+         -Object Study Path
+         -Object Intro
+         -Object Properties
+         -Object Methods
+         -Object this
+         -Object Display
+         -Object Constructor
+      -JS Scope
+         -JS Scope
+         -JS Code Block
+         -JS Hoisting
+         -JS Strict Mode
+      -JS Dates
+         -JS Dates
+         -JS Date Formats
+            -ISO = 'YYYY-MM-DD'
+                   'YYYY-MM'
+                   'YYYY'
+                   'YYYY-MM-DDTHH:MI:SEZ'  
+                   for UTC time remove Z and 
+                   'YYYY-MM-DDTHH:MI:SE-HH:MI'
+                   'YYYY-MM-DDTHH:MI:SE+HH:MI'
+                   'MMM DD YYYY'
+                   'DD MMM YYYY'
+                   'March DD YYYY'
+                   'Mar DD YYYY'
+                   'March,DD,YYYY'
+         -JS Date Get
+         -JS Date Set
+         -JS Date Methods()
+      -JS Temporal
+      -JS Arrays
+         -JS Arrays
+         -JS Array Methods
+         -JS Array Search
+         -JS Array Sort
+         -JS Array Iteration
+         -JS Array References
+      -JS Sets
+         -JS Set
+         -JS Set Methods
+         -JS Set Logic
+         -JS Set Weakset *

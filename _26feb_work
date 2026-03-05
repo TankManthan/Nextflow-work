@@ -1,0 +1,79 @@
+Today's Work :-
+Date:- 26 Feb , 2026
+
+
+JavaScript Training...
+JavaScript Topics learnin with the reference of W3Schools
+
+Following topics are covered or learned :-
+
+-JS Advanced
+    -JS Asynchronous
+        -Async Callbacks
+        -Async Promises
+            -then() runs when a promise is fulfilled.
+            -catch() runs when a promise is rejected.
+        -Async Await
+        -Async Fetch
+        -Async Debug
+        -Async References
+    -JS Module
+        -Modules Intro
+        -Modules Export
+        -Modules Import
+        -Modules Namespace
+        -Modules Dynamic
+    -JS Meta & Proxy
+        -Meta Programming
+        -Meta Reflects
+        -Meta Proxy
+        -Meta References
+    -JS Typed Array
+        -Typed Array
+        -Typed Methods 
+        -Typed References 
+        -Array Buffers
+        -DataViews
+        -JS Atomics
+    -JS DOM Navigation
+        -DOM Navigation
+            -parentNode
+            -childNodes[nodenumber]
+            -firstChild
+            -lastChild
+            -nextSibling
+            -previousSibling
+        -DOM Nodes
+        -DOM Collection
+        -DOM Node Lists
+    -JS Windows
+        -JS Window
+        -JS Screen
+        -JS Location
+        -JS History
+        -JS Navigator
+        -JS Popup Alert
+        -JS Timing
+        -JS Cookies
+    -JS Web APIs
+        -Web API Intro
+        -Fetch API
+        -GeoLocation API
+        -Web History API
+        -Web Pointer API
+        -Web Storage API
+        -Validation API
+        -Web Worker API
+    -JS JSON
+        -JSON Intro
+        -JSON Syntax
+        -JSON vs XML
+        -JSON Data types
+        -JSON Parse
+        -JSON Stringify
+        -JSON Objects
+        -JSON Arrays
+        -JSON Server
+        -JSON PHP
+        -JSON HTML
+        -JSON JSONP

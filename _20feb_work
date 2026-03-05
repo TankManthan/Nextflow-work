@@ -1,0 +1,144 @@
+Today's Work :-
+Date:- 20 Feb , 2026
+
+-Bootstrap Learning Topics:-
+-Getting Started
+    -Introduction
+    -Download
+    -Contents
+    -Browsers & Devices
+    -Javascript
+    -Theming
+    -Build Tools
+    -Web Packs
+    -Accessibility
+
+-Layout
+    -Overview
+        -Cointainers
+        -Responsive Breakpoints
+        -Z-index
+    -Grid
+        -Grid System
+        -Grid Options
+        -Auto-layout columns
+            -Equal-width
+            -Equal-width multi-line
+            -Setting one column width
+            -Variable width content
+        -Responsive classes
+            -All breakpoints
+            -Stacked to horizontal
+            -Mix and match
+            -Gutters
+            -Row columns
+        -Alignment    
+            -Vertical alignment
+            -Horizontal alignment
+            -No gutters
+            -Column wrapping
+            -Column breaks
+        -Reordering
+            -Order classes
+            -Offsetting Columns
+                -Offset classes
+                -Margin Utilities
+        -Nesting    
+    -Utilities For Layout
+        -Changing display
+        -Flexbox options
+        -Margin and padding
+        -Toggle visibility
+-Content
+    -Reboot
+        -Approach
+        -Page defaults
+        -Native font stack
+        -Headings and paragraphs
+        -Lists
+        -Preformatted text
+        -Tables
+        -Forms
+            -Pointers on buttons
+        -Misc elements
+            -Address
+            -Blockquote
+            -Inline elements
+            -Summary
+        -HTML5 [hidden] attribute
+    -Typography
+        -Global settings
+        -Headings
+            -Customizing headings
+        -Display headings
+        -Lead
+        -Inline text elements
+        -Text utilities
+        -Abbreviations
+        -Blockquotes
+            -Naming a source
+            -Alignment
+        -Lists
+            -Unstyled
+            -Inline
+            -Description list alignment
+        -Responsive font sizes
+    -Code
+        -Inline code
+        -Code blocks
+        -Variables
+        -User input
+        -Sample output
+    -Images
+        -Responsive images
+        -Image thumbnails
+        -Aligning images
+        -Picture
+    -Tables
+        -Examples
+        -Table head options
+        -Striped rows
+        -Bordered table
+        -Borderless table
+        -Hoverable rows
+        -Small table
+        -Contextual classes
+        -Captions
+        -Responsive tables
+            -Always responsive
+            -Breakpoint specific
+    -Figures
+
+-Components
+    -Alerts
+    -Badge
+    -Breadcrumb
+    -Button 
+    -Button Groups
+    -Cards
+    -Carousel
+    -Collapse
+    -Dropdowns
+    -Forms [learning...]
+
+-Utilities 
+    -Borders 
+    -Clearfix
+    -Close icon
+    -Colors
+    -Display
+    -Flex 
+    -Float
+    -Image Replacement
+    -Interactions
+        - Change how the content is selected when the user interacts with it.
+    -Overflow
+    -Position
+    -Screen Readers
+    -Shadows
+    -Sizing
+    -Spacing
+    -Stretched Link
+    -Text
+    -Verticle Align
+    -Visibility 

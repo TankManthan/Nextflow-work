@@ -1,0 +1,47 @@
+Today's Work :-
+Date:- 18 Feb , 2026
+
+Reference by :- W3Schools
+CSS Basic
+-Css Image gallery
+-Css Image stripes
+-Css attr selectors
+-Css Forms
+-Css !important
+-Css Website Layout
+
+CSS Advanced
+-CSS Rounded Corners
+-CSS Border Images
+-CSS Backgrounds
+-CSS colors
+-CSS Gradients 
+-CSS Shadow
+-CSS Text Effect
+-CSS Custom Fonts
+-CSS 2D Transform
+-CSS 3D Transforms
+-CSS Transitions
+  ease - transition will start slow, then go fast, and end slow (this is default)
+  linear - transition will keep the same speed from start to end
+  ease-in - transition will start slow
+  ease-out - transition will end slow
+  ease-in-out - transition will have a slow start and end
+  cubic-bezier(n,n,n,n) - lets you define your own values in a cubic-bezier function
+
+-CSS Animations
+-CSS Tooltip
+  A CSS tooltip is used to specify extra information about something when the user moves the mouse pointer over an element.
+
+-CSS Styling Images
+-CSS Responsive Modal Images
+-CSS Centering Images
+-CSS Image Filters
+-CSS Images Shapes
+-CSS object-fit Property
+-CSS object-position Property
+-CSS Masking
+-CSS Styling Buttons
+-CSS Grid Layout
+-CSS 12-Column Grid Layout
+-Responsive Web Design
