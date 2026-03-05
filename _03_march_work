@@ -1,0 +1,174 @@
+Today's Work :-
+Date:- 03 March , 2026
+
+-Task4 DONE
+    -Table with Add , Edit , Delete , Save Functionality
+        -Add DNE
+        -Delete DONE
+        -Edit DONE
+        -Save DONE 
+
+Python Learning :-
+    -In python learning , the topics are based on python basics and its features or characteristics which are as following.
+    -After completion of each topic there is code challenge to complete.
+-Python Tutorial 
+    -Python HOME
+    -Python intro
+    -Python Get Started
+        - it covers the importance of indention in python.In python we can easily declare variable.we can add comment using "#" sign.
+    -Python output
+        -we can display our output using 'print()' function.
+    -Python comments
+        -use '#' sign for single line comments.
+        -use ''' comments ''' triple quotes.
+    -Python variable
+        - type(variable_name) returns type of that variabl.
+        - we can declare varibale like this :-  
+            a,b,c=1,2,3  one value for each
+            a=b=c=1 one value every varibale
+        -Extract data from colletion into variable is called Unpacking :-   
+            a=[1,2,3]
+            b,c,d=a  by this b=1 , c=2 , d=3
+        -global keyword make variable accessible everywhere
+    -Python DataType
+        -complex , frozenset bytes , byterray , memoryview , noneType
+    -Python Numbers
+        -int , float , complex 
+    -Python Casting
+        -int() , float() , str()
+    -Python String
+        -strings are arrays like structure
+        -we can loop through single word
+        -len() returns number of character 
+        - 'in' used to find specific word or character in string.
+
+        -to return part of string slicing is used.
+        -slicing can done using negative index.
+
+        -Built-in mathods for string :-
+            -upper() , lower() , strip() , replace() , split() 
+
+        - concat strings using '+'.
+
+        -f-string or format() are used for formatting string.
+        
+        -to insert illegal character in string we can use escape character like: '\' backward slash.
+
+        -string methods:- 
+            -count() : Returns the number of times a specified value occurs in a string.
+            -lstrip() : remove spaces from left side of the string.
+            -rstrip() : remove spaces from right side of the string.
+            -splitlines() : split from new lines and return list.
+    -Python Booleans
+        -Almost any value is evaluated to True if it has some sort of content.
+        -Any string is True, except empty strings.
+        -Any number is True, except 0.
+        -Any list, tuple, set, and dictionary are True, except empty ones.
+        -isinstance() :-    
+            x = 200
+            print(isinstance(x, int))
+
+    -Python Opeartors
+        -Arithmetic operators
+        -Assignment operators
+            -The Walrus Operator (':='): It assigns values to variables as part of a larger expression.
+        -Comparison operators
+            -Chaining Comparison Operators : 
+                x = 5
+                print(1 < x < 10)
+                print(1 < x and x < 10)
+        -Logical operators
+            - and , or , not 
+        -Identity operators
+            - is , is not
+        -Membership operators
+            - in , not in 
+        -Bitwise operators
+            - AND(&) , OR(|) , NOT(~) , XOR(^) 
+        -Operator Predence
+            - Operator precedence describes the order in which operations are performed.
+    -Python lists
+        - [] , mutuable , ordered , allow duplicate , list() constructor 
+        -Access list items usign indexing (positive / negative index)
+        - insert() : we can add item at specific index without replacing or removing other existing items.
+        - append() : to add an item to the end of the list. 
+        - extend() : to add new list or append multiple list items or concat two list.
+        - remove () : remove specified item with item name not with the index value.
+        - pop () : removes item with specified index value. By default , means if we will not specify the index value it will remove last item from the list.
+        - del () : with index value it will Delete/ remove the specified item and also can Delete/remove entire list.
+        - clear () : clear methods clears the entire list.
+        - we can iterate entire list using loops.
+        -List Comprehension : shortest way to iterate list. short hand of for loop.
+        -Sort list items : 
+            - sort () : that will sort the list alphanumerically, ascending, by default.
+            - reverse () : reverse the list item.
+        -Copy List : 
+            - copy () : copy the list from existing list. 
+            - list () : it copies the list form existing list.
+            - ' : ' : using slice we can copy the existing list.
+        -Join List : 
+            - to join one or more lists.
+            - use '+' operator to join more than one lists.
+            - to join lists we can use append() + for loop.
+            - to join lists we can use extend().
+        -List Methods :
+            - count () : returns the number how many times the specified value  appear in the list.
+            - index () : returns the position of specified value.
+    -Python Tuples 
+        - () , unmutuable , ordered , allow duplicate .
+        - to create tuple with only one item we have to put comma ' , ' at the end.
+            myTupel = ("one",)
+        - tuple() constructor to create tuple.
+        
+        -Access Tuples :
+            - we can access tuple items by its index number (positive o negative).
+            - can use slicing.
+        -Update Tuples :
+            - we can change tuple item even if it is unchangeable using this :
+                convert to list -> change value -> convert to tuple 
+                y=list(myTuple) ->  y[1]="value"-> x=tuple(y) -> print(x)
+            - once the tuple converts into list we can perform all list methods.
+        -Unpack Tuples : 
+            - assign values of tuple into one or more varibales is called 'unpacking' .
+            - usign * asterick sign when the varibales are as compared to tuple items.It will assing remaining value to the varibale with * sign ,as a list.    
+                *variable_name 
+        -Loop Tuples :
+            - we can use loops.
+        -Join Tuples :
+            - ' + ' operator to concat.
+            - ' * ' for multiply content the tuples.
+        -Tuples Methods :
+            - count(),index() : index takes values as arguments.
+    -Python Sets : 
+        - {},unordered,unchangeable/immutable,unindexed 
+        - even if it is immutable we can add or remove items.
+        - In set True and 1 are same.If both are in set it will considered as duplicate value.
+        - False and 0 are same in set means duplicate.
+        - set( constructor) to create set.
+        - mySet = set() this is empty set.
+        -Access Items : 
+            - sets will not access by its index because it is unordered.
+            - we can use loops.
+        -Add Items : 
+            - add() : add item to the specified set.
+            - update() : To add items from another set into the current set.update() can be used with all DataType list,tuple,set,dictionary.
+        -Remove Items : 
+            -remove() : removes item with specified name
+            -discard() : removes item with specified name wether item exist or not.
+            -pop() : removes random item from the set.
+            -clear(),del .
+        -Loop Set : 
+            - use for loop.
+        -Join Sets : 
+            -union(),update(), '|' :methods joins all items from both sets.
+            -intersection(),'&' :method keeps ONLY the duplicates.
+            -difference(),'-' :method keeps the items from the first set that are not in the other set(s).
+            -symmetric_difference() :method keeps all items EXCEPT the duplicates.
+            -frozenset() : immutable version of set.
+    -Python Dictionary : 
+        - {},key:value,ordered,changeable and do not allow duplicates.
+        - duplicate key not allowed.
+        - Duplicate values will overwrite existing values.
+        -Access Items: * 
+            - item can access using it's key.
+            - get() used to acess value using it's key.
